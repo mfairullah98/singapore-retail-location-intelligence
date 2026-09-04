@@ -48,7 +48,7 @@ The cleaned dataset was analysed using Pandas to:
 
 ## Dashboard Preview
 
-<AsyncImage src="https://raw.githubusercontent.com/mfairullah98/singapore-retail-location-intelligence/main/screenshots/malls_by_region.png" alt="Shopping malls by region chart" width="100%" maxHeight=420/>
+![Malls by Region](screenshots/malls_by_region.png)
 
 ## Key Findings
 
